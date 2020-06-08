@@ -1,0 +1,24 @@
+body {
+    background-color: #F6E8EA;
+}
+
+.company-name {
+    text-transform: uppercase;
+    margin-right: 20px;
+    font-family: "Oxygen", sans-serif;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
+.company-name:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.nav-item {
+    float: right;
+}
+
+.navbar {
+    background-color: #DE3C4B;
+}
