@@ -1,5 +1,6 @@
-body {
-    background-color: #F6E8EA;
+html, body {
+    background-color: #C0C0C0;
+    height: 100%;
 }
 
 .company-name {
@@ -20,5 +21,51 @@ body {
 }
 
 .navbar {
-    background-color: #DE3C4B;
+    background-color: #004E98;
 }
+
+.home-pg {
+    min-height: 100%;
+}
+
+footer {
+    width: 100%;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #3A6EA5;
+    height: 150px;
+    position: relative;
+}
+
+.legal {
+    display: inline;
+    color: #FFFFFF;
+}
+
+.legal:hover {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.legal-links {
+    padding-bottom: 15px;
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
